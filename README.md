@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Grace Laravel package**
 
-- 🌱 I’m currently learning **Angular and C#**
-
 - 💬 Ask me about **GrapesJs**
 
 - 📫 How to reach me **haniabdulfattah32@gmail.com**
